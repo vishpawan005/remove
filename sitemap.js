@@ -2,11 +2,11 @@
  * Blogger Tabbed Style Table of Content Widget by Pawan Vishwakarma
  * Free for change but keep the original attribution.
  * URL: https://plus.google.com/u/0/106484853245494915198/posts
- * TEMPLATES: &lt;div id="tabbed-toc"&gt;&lt;span class="loading"&gt;Loading...&lt;/span&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;var tabbedTOC = {blogUrl:"http://rootprofessor.blogspot.com/", containerId: "tabbed-toc", activeTab: 1};&lt;/script&gt;&lt;script type="text/javascript" src="js/tabbed-toc.js"&gt;&lt;/script&gt;
+ * TEMPLATES: &lt;div id="tabbed-toc"&gt;&lt;span class="loading"&gt;Loading...&lt;/span&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;var tabbedTOC = {blogUrl:"http://haxorhub.blogspot.com/", containerId: "tabbed-toc", activeTab: 1};&lt;/script&gt;&lt;script type="text/javascript" src="js/tabbed-toc.js"&gt;&lt;/script&gt;
  */
 
 var tabbedTOC_defaults = {
-	blogUrl: "http://rootprofessor.blogspot.com/", // Blog URL
+	blogUrl: "http://haxorhub.blogspot.com/", // Blog URL
 	containerId: "tabbed-toc", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
